@@ -22,8 +22,8 @@ Visual components and Python
 ![image](https://github.com/user-attachments/assets/6bc2838b-ddc5-4d64-9944-9fd4906b0911)
 
 ## Program
-Developed By:  DANICA CHRISTA
-Register No: 212223240022
+Developed By:  JESU SMARTIA A
+Register No: 212223110016
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
